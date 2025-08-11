@@ -3,3 +3,5 @@
 *.sh  linguist-vendored
 *.md  linguist-documentation
 *.json linguist-vendored
+*.yml linguist-vendored
+*.yaml linguist-vendored
