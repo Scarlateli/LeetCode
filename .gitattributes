@@ -1,7 +1,8 @@
 *.sql linguist-detectable=true
 *.sql linguist-language=SQL
 *.sh  linguist-vendored
-*.md  linguist-documentation
+*.md  linguist-vendored
 *.json linguist-vendored
 *.yml linguist-vendored
 *.yaml linguist-vendored
+*.txt linguist-vendored

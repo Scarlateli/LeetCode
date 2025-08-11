@@ -4,61 +4,84 @@ set -euo pipefail
 REPO="Scarlateli/LeetCode"
 OUT="README.md"
 
-# mapa ext -> linguagem
-declare -A MAP=(
-  [sql]="SQL" [c]="C" [h]="C"
-  [java]="Java" [py]="Python" [cpp]="C++"
-  [js]="JavaScript" [ts]="TypeScript"
-  [go]="Go" [rb]="Ruby" [kt]="Kotlin" [cs]="C#" [php]="PHP"
-)
+map_ext_to_lang() {
+  case "$1" in
+    sql) echo "SQL" ;;
+    c|h) echo "C" ;;
+    java) echo "Java" ;;
+    py) echo "Python" ;;
+    cpp) echo "C++" ;;
+    js) echo "JavaScript" ;;
+    ts) echo "TypeScript" ;;
+    go) echo "Go" ;;
+    rb) echo "Ruby" ;;
+    kt) echo "Kotlin" ;;
+    cs) echo "C#" ;;
+    php) echo "PHP" ;;
+    *) echo "" ;;
+  esac
+}
 
-# badges do repo
 badge_top="![top language](https://img.shields.io/github/languages/top/${REPO})"
 badge_count="![languages](https://img.shields.io/github/languages/count/${REPO})"
 badge_last="![last commit](https://img.shields.io/github/last-commit/${REPO})"
 badge_size="![repo size](https://img.shields.io/github/repo-size/${REPO})"
 
-# linguagens encontradas no repo (recursivo)
-declare -A found
-while IFS= read -r -d '' f; do
-  ext="${f##*.}"; [[ ${MAP[$ext]+x} ]] && found["${MAP[$ext]}"]=1 || true
-done < <(find . -type f -not -path "./.git/*" -not -path "./scripts/*" -not -path "./.github/*" -print0)
+# Linguagens usadas dentro das pastas de problemas (./0000-*)
+langs_tmp="$(mktemp)"
+find . -maxdepth 2 -type f -regex './[0-9][0-9][0-9][0-9]-[^/]+/.*' \
+  -not -path "./.git/*" -not -path "./.github/*" -not -path "./scripts/*" \
+  | awk -F. '{print tolower($NF)}' \
+  | while read -r ext; do
+      lang="$(map_ext_to_lang "$ext")"
+      [ -n "$lang" ] && echo "$lang"
+    done \
+  | sort -u > "$langs_tmp"
 
-langs=""
-for lang in "${!found[@]}"; do
-  slug="${lang// /%20}"
-  langs+=" ![${lang}](https://img.shields.io/badge/${slug}-%20-informational)"
-done
+# Monta badges de linguagens detectadas
+langs_badges=""
+while read -r L; do
+  [ -z "$L" ] && continue
+  slug="$(echo "$L" | sed 's/ /%20/g')"
+  langs_badges="${langs_badges} ![${L}](https://img.shields.io/badge/${slug}-%20-informational)"
+done < "$langs_tmp"
 
-# lista de problemas (pastas 0000-*)
-problems=""
-while IFS= read -r dir; do
-  base="$(basename "$dir")"
-  title="$(echo "$base" | sed -E 's/^([0-9]+)/\1./; s/-/ /g')"
+# Lista de problemas com linguagens
+problems_tmp="$(mktemp)"
+find . -maxdepth 1 -type d -regex './[0-9][0-9][0-9][0-9]-.*' | sort > "$problems_tmp"
 
-  # linguagens usadas nesta pasta (recursivo)
-  declare -A pl=()
-  while IFS= read -r -d '' cf; do
-    ext="${cf##*.}"; [[ ${MAP[$ext]+x} ]] && pl["${MAP[$ext]}"]=1 || true
-  done < <(find "$dir" -type f -print0)
+{
+  echo "# LeetCode"
+  echo
+  echo "${badge_top} ${badge_count} ${badge_last} ${badge_size}${langs_badges}"
+  echo
+  echo "Repositório com **meus problemas resolvidos do LeetCode**."
+  echo "As soluções são sincronizadas pelo **LeetHub v2**. Este README é **gerado automaticamente**."
+  echo
+  echo "---"
+  echo
+  echo "## 📋 Problemas resolvidos"
+  if [ ! -s "$problems_tmp" ]; then
+    echo "_Nenhum problema encontrado no padrão \`0000-nome-do-problema\` na raiz._"
+  else
+    while read -r dir; do
+      base="$(basename "$dir")"
+      title="$(echo "$base" | sed -E 's/^([0-9]+)/\1./; s/-/ /g')"
+      # linguagens por problema
+      pl_tmp="$(mktemp)"
+      find "$dir" -type f \
+        | awk -F. '{print tolower($NF)}' \
+        | while read -r ext; do
+            lang="$(map_ext_to_lang "$ext")"
+            [ -n "$lang" ] && echo "$lang"
+          done | sort -u > "$pl_tmp"
+      langs_line="$(paste -sd', ' "$pl_tmp")"
+      [ -z "$langs_line" ] && langs_line="—"
+      link="$(echo "$dir" | sed 's/ /%20/g')"
+      echo "- [${title}](${link}) — ${langs_line}"
+      rm -f "$pl_tmp"
+    done < "$problems_tmp"
+  fi
+} > "$OUT"
 
-  ll=""; for k in "${!pl[@]}"; do ll+="$k, "; done; ll="${ll%, }"
-  [[ -z "$ll" ]] && ll="—"
-
-  link="$(echo "$dir" | sed 's/ /%20/g')"
-  problems+="- [${title}](${link}) — ${ll}\n"
-done < <(find . -maxdepth 1 -type d -name "[0-9][0-9][0-9][0-9]-*" | sort)
-
-cat > "$OUT" <<MD
-# LeetCode
-
-${badge_top} ${badge_count} ${badge_last} ${badge_size}${langs}
-
-Repositório com **meus problemas resolvidos do LeetCode**.  
-As soluções vêm do **LeetHub v2** e o README é **gerado automaticamente**.
-
----
-
-## 📋 Problemas resolvidos
-${problems:-_Nenhum problema encontrado no padrão \`0000-nome-do-problema\` na raiz._}
-MD
+rm -f "$langs_tmp" "$problems_tmp"
