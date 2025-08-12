@@ -2,8 +2,8 @@
 
 Repositório com **minhas soluções do LeetCode**, sincronizadas automaticamente pelo **LeetHub v2**.
 
-[![Top language](https://img.shields.io/github/languages/top/Scarlateli/LeetCode)](./)
-[![Languages count](https://img.shields.io/github/languages/count/Scarlateli/LeetCode)](./)
+---
 
-![SQL](https://img.shields.io/badge/SQL-informational)
-![C](https://img.shields.io/badge/C-informational)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
