@@ -1,5 +1,5 @@
-class Solution:
-    def largestGoodInteger(self, num: str) -> str:
+class Solution(object):
+    def largestGoodInteger(self, num):
         best = ""
         for i in range(len(num) - 2):
             s = num[i:i+3]
@@ -7,3 +7,4 @@ class Solution:
                 if best == "" or s > best:
                     best = s
         return best
+        
