@@ -43,4 +43,8 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Scarlateli/LeetCode/tree/master/0342-power-of-four) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/Scarlateli/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
