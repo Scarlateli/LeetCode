@@ -50,6 +50,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/Scarlateli/LeetCode/tree/master/0577-employee-bonus) |
 | [1179-game-play-analysis-i](https://github.com/Scarlateli/LeetCode/tree/master/1179-game-play-analysis-i) |
 ## Greedy
 |  |
