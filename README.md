@@ -51,6 +51,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Scarlateli/LeetCode/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/Scarlateli/LeetCode/tree/master/0584-find-customer-referee) |
 | [1179-game-play-analysis-i](https://github.com/Scarlateli/LeetCode/tree/master/1179-game-play-analysis-i) |
 ## Greedy
 |  |
