@@ -1,7 +1,4 @@
 SELECT class
-FROM (
-    SELECT class, COUNT(*) AS total
-    FROM courses
-    GROUP BY class
-) t
-WHERE total >= 5;
+from courses
+group by class
+having count(*) >=5;
