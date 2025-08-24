@@ -1,4 +1,4 @@
 SELECT class
-from courses
-group by class
-having count(*) >=5;
+FROM courses
+GROUP BY class
+HAVING COUNT(*) >= 5;
