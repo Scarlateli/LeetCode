@@ -13,6 +13,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Scarlateli/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Scarlateli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Scarlateli/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Scarlateli/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -64,6 +65,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Scarlateli/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Scarlateli/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
