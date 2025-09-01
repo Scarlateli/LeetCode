@@ -3,19 +3,20 @@ class Solution:
         import heapq
 
         def gain(p, t):
-            return (p + 1) / (t + 1) - p / t
+            return (p + 1) / (t + 1) - (p / t)
 
-        # Criar heap (max-heap usando ganho negativo)
+        # Crio o heap com o ganho inicial de cada turma -- heapq é um heap minimo, por isso tenho que fazer o gain.
         heap = [(-gain(p, t), p, t) for p, t in classes]
-        heapq.heapify(heap)
+        heapq.heapify(heap)  # transforma em heap válido
 
-        # Distribuir alunos extras
+        # Enquanto tiver alunos extras
         for _ in range(extraStudents):
             g, p, t = heapq.heappop(heap)  # turma com maior ganho
             p, t = p + 1, t + 1            # adiciona 1 aluno
             heapq.heappush(heap, (-gain(p, t), p, t))
 
-        # Calcular média final
-        return sum(p / t for _, p, t in heap) / len(classes)
+        # Calcula a média final das turmas
+        total = sum(p / t for _, p, t in heap)
+        return total / len(classes)
 
         
