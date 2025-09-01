@@ -19,6 +19,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Scarlateli/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Scarlateli/LeetCode/tree/master/0169-majority-element) |
+| [1917-maximum-average-pass-ratio](https://github.com/Scarlateli/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Scarlateli/LeetCode/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/Scarlateli/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +89,8 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Scarlateli/LeetCode/tree/master/0867-new-21-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/Scarlateli/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
