@@ -20,6 +20,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0118-pascals-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Scarlateli/LeetCode/tree/master/0169-majority-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/Scarlateli/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Scarlateli/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Scarlateli/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0342-power-of-four](https://github.com/Scarlateli/LeetCode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/Scarlateli/LeetCode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Scarlateli/LeetCode/tree/master/1448-maximum-69-number) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Scarlateli/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Scarlateli/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Bit Manipulation
 |  |
@@ -80,6 +82,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Scarlateli/LeetCode/tree/master/0169-majority-element) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Scarlateli/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Scarlateli/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Counting
 |  |
@@ -100,9 +103,11 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Scarlateli/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Scarlateli/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Scarlateli/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Scarlateli/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
