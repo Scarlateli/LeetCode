@@ -45,6 +45,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [1448-maximum-69-number](https://github.com/Scarlateli/LeetCode/tree/master/1448-maximum-69-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Scarlateli/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Scarlateli/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/Scarlateli/LeetCode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
