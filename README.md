@@ -39,6 +39,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | ------- |
 | [0118-pascals-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0118-pascals-triangle) |
 | [0867-new-21-game](https://github.com/Scarlateli/LeetCode/tree/master/0867-new-21-game) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Scarlateli/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Math
 |  |
 | ------- |
@@ -134,4 +135,12 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Scarlateli/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Scarlateli/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Scarlateli/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
