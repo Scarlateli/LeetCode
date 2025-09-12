@@ -1,0 +1,1 @@
+bool doesAliceWin(char* s) { return strpbrk(s, "aeiou") != NULL; }
