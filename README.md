@@ -116,6 +116,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Scarlateli/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Scarlateli/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/Scarlateli/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Scarlateli/LeetCode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Scarlateli/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -146,6 +147,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Scarlateli/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/Scarlateli/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Scarlateli/LeetCode/tree/master/3678-design-task-manager) |
 ## Geometry
 |  |
 | ------- |
@@ -186,8 +188,10 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Scarlateli/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Scarlateli/LeetCode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Scarlateli/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Scarlateli/LeetCode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
