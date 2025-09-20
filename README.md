@@ -29,6 +29,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Scarlateli/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Scarlateli/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/Scarlateli/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Scarlateli/LeetCode/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [2429-design-a-food-rating-system](https://github.com/Scarlateli/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Scarlateli/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Scarlateli/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Scarlateli/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Scarlateli/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -171,6 +173,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Scarlateli/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Scarlateli/LeetCode/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -193,13 +196,19 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [2429-design-a-food-rating-system](https://github.com/Scarlateli/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Scarlateli/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Scarlateli/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Scarlateli/LeetCode/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Scarlateli/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Scarlateli/LeetCode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Scarlateli/LeetCode/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/Scarlateli/LeetCode/tree/master/3797-design-spreadsheet) |
+## Binary Search
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Scarlateli/LeetCode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
