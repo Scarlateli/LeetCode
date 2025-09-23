@@ -38,9 +38,11 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Scarlateli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Scarlateli/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Scarlateli/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0165-compare-version-numbers](https://github.com/Scarlateli/LeetCode/tree/master/0165-compare-version-numbers) |
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/Scarlateli/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/Scarlateli/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Scarlateli/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Scarlateli/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
