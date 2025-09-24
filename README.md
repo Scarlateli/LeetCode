@@ -43,6 +43,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Scarlateli/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Scarlateli/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/Scarlateli/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Scarlateli/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Scarlateli/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -60,6 +61,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Scarlateli/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/Scarlateli/LeetCode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/Scarlateli/LeetCode/tree/master/0867-new-21-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Scarlateli/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -119,6 +121,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Scarlateli/LeetCode/tree/master/0001-two-sum) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Scarlateli/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Scarlateli/LeetCode/tree/master/0169-majority-element) |
 | [1006-vowel-spellchecker](https://github.com/Scarlateli/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Scarlateli/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
