@@ -24,6 +24,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0830-largest-triangle-area](https://github.com/Scarlateli/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Scarlateli/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Scarlateli/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Scarlateli/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Scarlateli/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Scarlateli/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Scarlateli/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -63,6 +64,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0118-pascals-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0120-triangle) |
 | [0867-new-21-game](https://github.com/Scarlateli/LeetCode/tree/master/0867-new-21-game) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Scarlateli/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Scarlateli/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Math
 |  |
