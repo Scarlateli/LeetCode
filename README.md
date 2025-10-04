@@ -14,6 +14,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Scarlateli/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Scarlateli/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Scarlateli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Scarlateli/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Scarlateli/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -42,6 +43,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Scarlateli/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Scarlateli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Scarlateli/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Scarlateli/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -133,6 +135,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Scarlateli/LeetCode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Scarlateli/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Scarlateli/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Scarlateli/LeetCode/tree/master/1448-maximum-69-number) |
