@@ -116,6 +116,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0619-biggest-single-number](https://github.com/Scarlateli/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Scarlateli/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Scarlateli/LeetCode/tree/master/1153-product-sales-analysis-i) |
+| [1155-product-sales-analysis-iii](https://github.com/Scarlateli/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/Scarlateli/LeetCode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/Scarlateli/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Scarlateli/LeetCode/tree/master/1182-game-play-analysis-iv) |
