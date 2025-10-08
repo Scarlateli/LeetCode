@@ -5,13 +5,9 @@
 -- e a media (AVG) de tempo(idade) arredondado
 -- ordernar por employee_id
 
-select e.employee_id, e.name, manager.reports_count, manager.average_age
-from Employees e
-inner join(
-    select reports_to, count(reports_to) reports_count, round(avg(age), 0) average_age
-    from Employees
-    group by reports_to
-) manager 
-on e.employee_id = manager.reports_to
-order by e.employee_id
-
+select e.employee_id,e.name,count(e1.employee_id)"reports_count"
+,round(avg(e1.age))"average_age"
+from employees e join employees e1
+on e.employee_id =e1.reports_to
+group by e.employee_id,e.name
+order by employee_id;
