@@ -7,7 +7,7 @@
 
 select e.employee_id, e.name, manager.reports_count, manager.average_age
 from Employees e
-join(
+inner join(
     select reports_to, count(reports_to) reports_count, round(avg(age), 0) average_age
     from Employees
     group by reports_to
