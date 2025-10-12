@@ -126,6 +126,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0595-big-countries](https://github.com/Scarlateli/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Scarlateli/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Scarlateli/LeetCode/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/Scarlateli/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Scarlateli/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Scarlateli/LeetCode/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/Scarlateli/LeetCode/tree/master/1135-customers-who-bought-all-products) |
