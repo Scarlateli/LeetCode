@@ -1,36 +1,20 @@
 class Solution:
     def maximumTotalDamage(self, power: List[int]) -> int:
-        # 1) conte as frequências e ordene os danos distintos
         freq = Counter(power)
-        keys = sorted(freq)
+        keys = sorted(freq)                       # valores distintos
         n = len(keys)
+        gain = [freq[k] * k for k in keys]        # ganho de pegar cada valor
 
-        # 2) dp[i] = melhor total usando apenas keys[0..i]
         dp = [0] * n
-        dp[0] = freq[keys[0]] * keys[0]
+        dp[0] = gain[0]
 
-        # 3) para cada dano distinto a partir do segundo
+        j = -1  # último índice compatível com i (keys[j] <= keys[i]-3)
         for i in range(1, n):
-            # valor se eu "pegar" esse dano (uso todos os feitiços desse valor)
-            take = freq[keys[i]] * keys[i]
+            # avança j até o último que ainda é compatível com keys[i]
+            while j + 1 < i and keys[j + 1] <= keys[i] - 3:
+                j += 1
 
-            # 4) achar via busca binária o último índice ans que não conflita
-            #    (keys[ans] <= keys[i] - 3)
-            l, r, ans = 0, i - 1, -1
-            while l <= r:
-                mid = (l + r) // 2
-                if keys[mid] <= keys[i] - 3:
-                    ans = mid
-                    l = mid + 1
-                else:
-                    r = mid - 1
-
-            # se existe um compatível atrás, some o melhor até ele
-            if ans >= 0:
-                take += dp[ans]
-
-            # 5) melhor entre não pegar o atual ou pegar e somar compatível
+            take = gain[i] + (dp[j] if j >= 0 else 0)
             dp[i] = max(dp[i - 1], take)
 
-        # 6) resposta final
         return dp[-1]
