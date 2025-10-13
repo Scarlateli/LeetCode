@@ -1,3 +1,5 @@
+-- vou ter que usar case when e lead
+-- linha do tempo de preços
 -- todos os produtos tem valor 10
 -- achar os valores de todos os produtos na data 2019-08-16
 -- orderar em qualquer ordem 
