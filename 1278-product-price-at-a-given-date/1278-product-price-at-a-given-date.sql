@@ -1,6 +1,8 @@
 -- todos os produtos tem valor 10
 -- achar os valores de todos os produtos na data 2019-08-16
 -- orderar em qualquer ordem 
+-- tabela registra apenas as mudanças
+
 SELECT product_id
      , CASE WHEN '2019-08-16' < start_dt THEN 10
             ELSE new_price
