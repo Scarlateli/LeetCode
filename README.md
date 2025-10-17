@@ -76,6 +76,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Scarlateli/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Scarlateli/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Scarlateli/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Scarlateli/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Scarlateli/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/Scarlateli/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Scarlateli/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -87,6 +88,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0867-new-21-game](https://github.com/Scarlateli/LeetCode/tree/master/0867-new-21-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Scarlateli/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Scarlateli/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Scarlateli/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Scarlateli/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Scarlateli/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
@@ -116,6 +118,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | ------- |
 | [0342-power-of-four](https://github.com/Scarlateli/LeetCode/tree/master/0342-power-of-four) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Scarlateli/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Scarlateli/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Scarlateli/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Scarlateli/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
@@ -338,5 +341,6 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Scarlateli/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Scarlateli/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
