@@ -37,6 +37,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [1834-minimum-number-of-people-to-teach](https://github.com/Scarlateli/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Scarlateli/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Scarlateli/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Scarlateli/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Scarlateli/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Scarlateli/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Scarlateli/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -75,6 +76,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Scarlateli/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Scarlateli/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Scarlateli/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Scarlateli/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Scarlateli/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Scarlateli/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Scarlateli/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -270,6 +272,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Scarlateli/LeetCode/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Scarlateli/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Scarlateli/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Scarlateli/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Scarlateli/LeetCode/tree/master/3336-water-bottles-ii) |
