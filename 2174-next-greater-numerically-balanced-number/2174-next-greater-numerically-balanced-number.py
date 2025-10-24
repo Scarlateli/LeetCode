@@ -1,6 +1,5 @@
 class Solution:
     def nextBeautifulNumber(self, n: int) -> int:
-        # Números balanceados pré-calculados até 10^6
         balanced = [1, 22, 122, 212, 221, 333, 1333, 3133, 3313, 3331, 
                     4444, 14444, 22333, 23233, 23323, 23332, 32233, 32323, 
                     32332, 33223, 33232, 33322, 41444, 44144, 44414, 44441,
@@ -17,7 +16,6 @@ class Solution:
                     424442, 442244, 442424, 442442, 444224, 444242, 444422,
                     515555, 551555, 555155, 555515, 555551, 666666, 1224444]
         
-        # Busca pelo próximo número maior que n
         for num in balanced:
             if num > n:
                 return num
