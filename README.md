@@ -43,6 +43,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Scarlateli/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Scarlateli/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Scarlateli/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Scarlateli/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Scarlateli/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/Scarlateli/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Scarlateli/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -301,6 +302,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Scarlateli/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Scarlateli/LeetCode/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Scarlateli/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Scarlateli/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Scarlateli/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Scarlateli/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Scarlateli/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -343,6 +345,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0417-pacific-atlantic-water-flow](https://github.com/Scarlateli/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Scarlateli/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Scarlateli/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Scarlateli/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3797-design-spreadsheet](https://github.com/Scarlateli/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
