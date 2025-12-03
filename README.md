@@ -61,6 +61,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Scarlateli/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Scarlateli/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Scarlateli/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Scarlateli/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Scarlateli/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Scarlateli/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Scarlateli/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -134,6 +135,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [3336-water-bottles-ii](https://github.com/Scarlateli/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Scarlateli/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Scarlateli/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Scarlateli/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Scarlateli/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Scarlateli/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Scarlateli/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -229,6 +231,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Scarlateli/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Scarlateli/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Scarlateli/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Scarlateli/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/Scarlateli/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Scarlateli/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Scarlateli/LeetCode/tree/master/3827-implement-router) |
@@ -288,6 +291,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Scarlateli/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Scarlateli/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Scarlateli/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Scarlateli/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Enumeration
 |  |
 | ------- |
