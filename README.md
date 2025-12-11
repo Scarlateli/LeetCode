@@ -38,6 +38,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Scarlateli/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Scarlateli/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Scarlateli/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-concatenation-of-array](https://github.com/Scarlateli/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2023-design-movie-rental-system](https://github.com/Scarlateli/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Scarlateli/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Scarlateli/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -314,6 +315,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Scarlateli/LeetCode/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Scarlateli/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Scarlateli/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Scarlateli/LeetCode/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Scarlateli/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
