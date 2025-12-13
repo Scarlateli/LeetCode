@@ -33,6 +33,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Scarlateli/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Scarlateli/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Scarlateli/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1470-shuffle-the-array](https://github.com/Scarlateli/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Scarlateli/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Scarlateli/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Scarlateli/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
