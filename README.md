@@ -25,6 +25,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0169-majority-element](https://github.com/Scarlateli/LeetCode/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/Scarlateli/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Scarlateli/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0485-max-consecutive-ones](https://github.com/Scarlateli/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/Scarlateli/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Scarlateli/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Scarlateli/LeetCode/tree/master/0830-largest-triangle-area) |
