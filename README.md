@@ -19,6 +19,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0011-container-with-most-water](https://github.com/Scarlateli/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Scarlateli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Scarlateli/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Scarlateli/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Scarlateli/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0120-triangle) |
@@ -118,6 +119,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Scarlateli/LeetCode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Scarlateli/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/Scarlateli/LeetCode/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/Scarlateli/LeetCode/tree/master/0830-largest-triangle-area) |
