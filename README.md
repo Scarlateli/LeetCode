@@ -35,6 +35,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [1018-largest-perimeter-triangle](https://github.com/Scarlateli/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Scarlateli/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Scarlateli/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/Scarlateli/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Scarlateli/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/Scarlateli/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Scarlateli/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -127,6 +128,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0830-largest-triangle-area](https://github.com/Scarlateli/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Scarlateli/LeetCode/tree/master/0867-new-21-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Scarlateli/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/Scarlateli/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Scarlateli/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Scarlateli/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Scarlateli/LeetCode/tree/master/1448-maximum-69-number) |
