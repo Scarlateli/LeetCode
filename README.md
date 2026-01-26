@@ -17,6 +17,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | ------- |
 | [0001-two-sum](https://github.com/Scarlateli/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Scarlateli/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Scarlateli/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Scarlateli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Scarlateli/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Scarlateli/LeetCode/tree/master/0066-plus-one) |
@@ -89,6 +90,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Scarlateli/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0165-compare-version-numbers](https://github.com/Scarlateli/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Scarlateli/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/Scarlateli/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -437,4 +439,8 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Scarlateli/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Scarlateli/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
