@@ -29,6 +29,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0417-pacific-atlantic-water-flow](https://github.com/Scarlateli/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/Scarlateli/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/Scarlateli/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/Scarlateli/LeetCode/tree/master/0645-set-mismatch) |
 | [0794-swim-in-rising-water](https://github.com/Scarlateli/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Scarlateli/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Scarlateli/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -157,6 +158,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Scarlateli/LeetCode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Scarlateli/LeetCode/tree/master/0645-set-mismatch) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Scarlateli/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Scarlateli/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Scarlateli/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -230,6 +232,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0001-two-sum](https://github.com/Scarlateli/LeetCode/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Scarlateli/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Scarlateli/LeetCode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/Scarlateli/LeetCode/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Scarlateli/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Scarlateli/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Scarlateli/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -259,6 +262,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | ------- |
 | [0169-majority-element](https://github.com/Scarlateli/LeetCode/tree/master/0169-majority-element) |
 | [0611-valid-triangle-number](https://github.com/Scarlateli/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/Scarlateli/LeetCode/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/Scarlateli/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Scarlateli/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Scarlateli/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
