@@ -20,6 +20,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0014-longest-common-prefix](https://github.com/Scarlateli/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Scarlateli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Scarlateli/LeetCode/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/Scarlateli/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Scarlateli/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Scarlateli/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0118-pascals-triangle) |
@@ -261,6 +262,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Scarlateli/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Scarlateli/LeetCode/tree/master/0169-majority-element) |
 | [0611-valid-triangle-number](https://github.com/Scarlateli/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Scarlateli/LeetCode/tree/master/0645-set-mismatch) |
