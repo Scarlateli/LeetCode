@@ -26,6 +26,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0118-pascals-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/Scarlateli/LeetCode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Scarlateli/LeetCode/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/Scarlateli/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Scarlateli/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/Scarlateli/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -115,6 +116,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | ------- |
 | [0118-pascals-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/Scarlateli/LeetCode/tree/master/0198-house-robber) |
 | [0867-new-21-game](https://github.com/Scarlateli/LeetCode/tree/master/0867-new-21-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Scarlateli/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Scarlateli/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
