@@ -230,6 +230,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Scarlateli/LeetCode/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/Scarlateli/LeetCode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Scarlateli/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Scarlateli/LeetCode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Scarlateli/LeetCode/tree/master/0645-set-mismatch) |
@@ -359,6 +360,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Scarlateli/LeetCode/tree/master/0146-lru-cache) |
 | [2023-design-movie-rental-system](https://github.com/Scarlateli/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Scarlateli/LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Scarlateli/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -442,9 +444,14 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Scarlateli/LeetCode/tree/master/0146-lru-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Scarlateli/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Scarlateli/LeetCode/tree/master/0014-longest-common-prefix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Scarlateli/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
