@@ -27,6 +27,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0120-triangle](https://github.com/Scarlateli/LeetCode/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/Scarlateli/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Scarlateli/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Scarlateli/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Scarlateli/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Scarlateli/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/Scarlateli/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -381,6 +382,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Scarlateli/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Scarlateli/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Scarlateli/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Scarlateli/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -410,6 +412,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Scarlateli/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Scarlateli/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Scarlateli/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Scarlateli/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -417,6 +420,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Scarlateli/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Scarlateli/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Scarlateli/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Scarlateli/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -458,4 +462,8 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Scarlateli/LeetCode/tree/master/0146-lru-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Scarlateli/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
