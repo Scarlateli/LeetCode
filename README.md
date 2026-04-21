@@ -92,6 +92,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Scarlateli/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0165-compare-version-numbers](https://github.com/Scarlateli/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Scarlateli/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1768-merge-strings-alternately](https://github.com/Scarlateli/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Scarlateli/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Scarlateli/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
@@ -105,6 +106,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Scarlateli/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Scarlateli/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Scarlateli/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1768-merge-strings-alternately](https://github.com/Scarlateli/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Scarlateli/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Scarlateli/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Scarlateli/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
