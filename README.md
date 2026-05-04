@@ -23,6 +23,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 | [0014-longest-common-prefix](https://github.com/Scarlateli/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Scarlateli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Scarlateli/LeetCode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Scarlateli/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Scarlateli/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Scarlateli/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Scarlateli/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -135,6 +136,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Scarlateli/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Scarlateli/LeetCode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Scarlateli/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/Scarlateli/LeetCode/tree/master/0342-power-of-four) |
@@ -387,6 +389,7 @@ Repositório com **minhas soluções do LeetCode**, sincronizadas automaticament
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Scarlateli/LeetCode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Scarlateli/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Scarlateli/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Scarlateli/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
